@@ -11,7 +11,7 @@
  - Estudando atualmente JavaScript
  - Qualidades: Disciplina, Organização e Determinação 
 
-🎯 Metas para 2022 :
+🎯 Metas:
 
 - 📂 Expandir meu portfólio
 - 📊 Obter experiência na área de tecnologia
