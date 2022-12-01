@@ -8,7 +8,6 @@
 
  - Me chamo João Victor e sou de Sorocaba-SP
  - Cursando Análise e Desenvolvimento de Sistemas - FACENS
- - Estudando atualmente JavaScript
  - Qualidades: Disciplina, Organização e Determinação 
 
 🎯 Metas:
